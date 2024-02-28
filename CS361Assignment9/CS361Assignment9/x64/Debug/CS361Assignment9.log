@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\braed\OneDrive\Documents\CWU CS 361\CS361Assignment9\CS361Assignment9\Card.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\braed\OneDrive\Documents\CWU CS 361\CS361Assignment9\CS361Assignment9\Card.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\braed\OneDrive\Documents\CWU CS 361\CS361Assignment9\CS361Assignment9\Hand.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CS361Assignment9.vcxproj -> C:\Users\braed\OneDrive\Documents\CWU CS 361\CS361Assignment9\x64\Debug\CS361Assignment9.exe
